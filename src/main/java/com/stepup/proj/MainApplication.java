@@ -6,9 +6,10 @@ public class MainApplication {
         System.out.println("1001");
     }
 
-    public static void doSomething(String[] args) {
+    public static void doSomething() {
         System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
+        System.out.println(0);
+        System.out.println(0);
     }
+
 }
